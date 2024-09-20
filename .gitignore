@@ -94,3 +94,9 @@ Thumbs.db
 # Ansible things to ignore
 ##########################
 *.retry
+
+
+# IDE project files
+##########################
+*.idea
+
